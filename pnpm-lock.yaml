@@ -22,6 +22,9 @@ importers:
 
   packages/eslint-config:
     dependencies:
+      '@mouji/eslint-config-vue':
+        specifier: workspace:*
+        version: link:../eslint-config-vue
       '@typescript-eslint/eslint-plugin':
         specifier: ^5.59.0
         version: 5.59.0(@typescript-eslint/parser@5.59.0)(eslint@8.38.0)(typescript@5.0.4)
