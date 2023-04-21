@@ -2,6 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@mouji/eslint-config?color=a1b858&label=)](https://npmjs.com/package/@mouji/eslint-config)
 
+> Thanks @antfu
 
 ## Usage
 
