@@ -5,7 +5,7 @@
   "author": "Allen Luo <luoyi@mouji.net> (https://github.com/moujinet/)",
   "license": "Apache2.0",
   "scripts": {
-    "release": "bumpp -r && pnpm -r publish"
+    "release": "bumpp -r && pnpm -r publish --access public"
   },
   "devDependencies": {
     "@mouji/eslint-config": "workspace:*",
